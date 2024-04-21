@@ -29,7 +29,7 @@ public class M05ProgrammingAssignment2 extends Application {
 
     
     Scene scene = new Scene(pane, 120, 120);
-    primaryStage.setTitle("Exercise_15_07"); 
+    primaryStage.setTitle("Mouse Click Circle"); 
     primaryStage.setScene(scene); 
     primaryStage.show(); 
 
