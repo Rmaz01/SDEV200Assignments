@@ -8,7 +8,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class BankUI extends Application {
+public class M06FinalProjectUpdate4 extends Application {
 
     private BankAccount currentAccount;
 
